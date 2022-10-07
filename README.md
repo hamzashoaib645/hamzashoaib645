@@ -11,7 +11,8 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C logo" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Github" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Nodejs logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="Mongodb logo" width="50" height="50"/>
+
 
 ## Most Used Languages
 
