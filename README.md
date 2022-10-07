@@ -11,8 +11,6 @@
 
 ### Languages and Tools:
 
-add javascript
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C logo" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Github" width="50" height="50"/>
 
 ## Most Used Languages
