@@ -11,31 +11,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />][bootstrap]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />][express]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />][php]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" />][wordpress]
-[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />][laravel]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][cpp]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />][linux]
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][windows]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />][firebase]
-[<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />][heroku]
-[<img align="left" alt="Netlify" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png" />][netlify]
-[<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" />][postman]
-[<img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/adobe-photoshop/adobe-photoshop.png" />][photoshop]
-[<img align="left" alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/adobe-illustrator/adobe-illustrator.png" />][illustrator]
-[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" />][figma]
+add javascript
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C logo" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Github" width="50" height="50"/>
 
 ## Most Used Languages
 
