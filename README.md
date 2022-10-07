@@ -24,23 +24,18 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />][php]
-[<img
-
-[vscode]: https://code.visualstudio.com/
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[bootstrap]: https://getbootstrap.com/
-[git]: https://git-scm.com/
-[github]:
-[react]: https://reactjs.org/
-[nodejs]: https://nodejs.org/en/
-[express]: https://expressjs.com/
-[mongodb]: https://www.mongodb.com/
-[mysql]: https://www.mysql.com/
-[php]: https://www.php.net/
-
-
+[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" />][wordpress]
+[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />][laravel]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][cpp]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />][linux]
+[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][windows]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />][firebase]
+[<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />][heroku]
+[<img align="left" alt="Netlify" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/netlify/netlify.png" />][netlify]
+[<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" />][postman]
+[<img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/adobe-photoshop/adobe-photoshop.png" />][photoshop]
+[<img align="left" alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/adobe-illustrator/adobe-illustrator.png" />][illustrator]
+[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" />][figma]
 
 ## Most Used Languages
 
@@ -69,11 +64,6 @@
 ## GitHub Profile Views
 
 ![Profile views](https://gpvc.arturio.dev/hamzashoaib645)
-
-
-## GitHub Visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hamzashoaib645.hamzashoaib645)
 
 
 ## GitHub Contributions
